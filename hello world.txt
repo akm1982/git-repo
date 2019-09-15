@@ -2,9 +2,8 @@ print("Hello world!");
 print("ну все!")
 print("buy")
 print("by")
-<<<<<<< HEAD
 print("tree_1")
 print("tree 222222")
-=======
 print("tree111111")
->>>>>>> tree_1
+print("tree_1")
+print("tree_2")
