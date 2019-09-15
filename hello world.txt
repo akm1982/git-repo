@@ -1,3 +1,4 @@
 print("Hello world!");
+print("ну все!")
 print("buy")
 print("by")
