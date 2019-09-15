@@ -8,6 +8,7 @@ namespace CSharpProj
 {
     class Program
     {
-        console.WriteLine("Hello world")
+        console.WriteLine("Hello world");
+        console.writeLine("Buy");
     }
 }
