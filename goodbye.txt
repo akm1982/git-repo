@@ -1,3 +1,0 @@
-print("mama")
-print("goodbye!")
-print("ok")
